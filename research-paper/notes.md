@@ -64,10 +64,14 @@
     - Train a CNN Model on Spectrograms and let the CNN model extract features.
     - Train a model after extracting features from time and frequency domain.
 - JSON format used to store the data
+
 # Paper 5
-- 
+- **Algorithm**: KNN with better distance metric to overcome the challenge of overlapping characteristics across the genres
+- **Feature Used**: MFCC
+- Accuracy: 80%
 
 # Paper 6
-
+- 
 
 # Paper 7
+-
