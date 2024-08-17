@@ -23,7 +23,23 @@
     - Spectral Bandwidth
     - Zero Crossing Rate
     - Chroma STFT
+
 # Paper 2
+- Spectrograms used to train the model
+- **Dataset**:
+    - GTZAN
+    - AudioSet 2.1 Million songs into 632 annoted classes.
+- **Classificatin Methods**:
+    - KNN
+    - SVC
+    - CNN
+- Categorical Cross Entropy Loss
+- Sigmoid Function for connected layer in CNN architecture and Softmax in last layer to classify since this is a multi class categorical data.
+- **Evaluation Metrics**:
+    - Confusion Matrix
+    - Accuracy
+    - 3 Repeated 10 Fold Validation accuracy
+    - Training Time
 
 # Paper 3
 - **Algorithms Used**: SVC, KNN, Decision Trees, Neural Networks(CNN,ANN)
@@ -49,5 +65,9 @@
     - Train a model after extracting features from time and frequency domain.
 - JSON format used to store the data
 # Paper 5
+- 
+
 # Paper 6
+
+
 # Paper 7
